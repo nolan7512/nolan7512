@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg](https://raw.githubusercontent.com/nolan7512/nolan7512/main/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/nolan7512/nolan7512/main/github-contribution-grid-snake.svg"
        alt="snake" />
   </div>
   <div align="center" id="badges">
