@@ -2,7 +2,7 @@
   <div align="center">
 <!--   <img  src="https://raw.githubusercontent.com/nolan7512/nolan7512/main/github-contribution-grid-snake.svg"
        alt="snake" /> -->
-    ![snake animation](https://github.com/nolan7512/nolan7512/blob/output/github-contribution-grid-snake2.svg)
+   {![snake animation](https://github.com/nolan7512/nolan7512/blob/output/github-contribution-grid-snake2.svg)}
   </div>
   <div align="center" id="badges">
     <h3 align="center">Contact me</h3>
