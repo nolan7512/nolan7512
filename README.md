@@ -56,6 +56,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nolan7512&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nolan7512&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nolan7512&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
