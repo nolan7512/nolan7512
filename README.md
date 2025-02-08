@@ -2,12 +2,7 @@
   <div align="center"  style="background-color:black" >
   <img  src="https://raw.githubusercontent.com/nolan7512/nolan7512/main/github-contribution-grid-snake.svg"
        alt="snake" />
-  </div>
-   <div align="center" id="badges">
-    <a href="[https://t.me/nolansignal](https://bento.me/0xbtc)">
-      <img src="https://img.shields.io/badge/-AdamanLabs-blue?style=for-the-badge&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>  
+  </div> 
   <div align="center" id="badges">
     <h3 align="center">Contact me</h3>
     <a href="https://t.me/nolansignal">
