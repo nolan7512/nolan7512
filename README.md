@@ -8,6 +8,9 @@
     <a href="https://t.me/nolansignal">
       <img src="https://img.shields.io/badge/-AdamanLabs-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
+    <a href="https://bento.me/0xbtc">
+      <img src="https://img.shields.io/badge/-Nolan%20Info-black?style=for-the-badge" alt="InfoHub Badge"/>
+    </a>
   </div>  
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=nolan7512&label=Profile%20Visits&style=for-the-badge" />
   <h1>
